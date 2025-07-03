@@ -21,6 +21,8 @@ This project is a modular, multi-agent system for automated research, writing, a
 ---
 
 ## Architecture Diagram
+![architecture-diagram (1)](https://github.com/user-attachments/assets/091419dd-fb4a-451f-b834-f36e847d30f1)
+
 
 ```mermaid
 flowchart TD
